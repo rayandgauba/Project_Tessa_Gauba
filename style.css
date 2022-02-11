@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px !important;
+    margin: 0px;
+    width: 100%;
+}
+
+.start{
+    font-size: 20px;
+}
+
+#number_of_objects{
+    font-size: 20px;
+}
+
+#status{
+    font-size:20px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 2;
+    font-size: 17px;
+    text-shadow: 5px 5px 10px white ;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+}
